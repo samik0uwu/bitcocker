@@ -1,0 +1,36 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.16299
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.97\c$\BTL\
+
+    External Key:
+      ID: {BCFD3A80-19EC-469D-87E1-C4C15E1F9C3E}
+      External Key File Name:
+        BCFD3A80-19EC-469D-87E1-C4C15E1F9C3E.BEK
+
+    Numerical Password:
+      ID: {02A448CB-A5C1-4514-83B6-01C80C150815}
+      Password:
+        314314-139491-315062-049632-513821-601194-135289-471735
+
+    TPM:
+      ID: {92D44AC2-5BF1-4D9E-934E-FDE8B6DB4261}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    314314-139491-315062-049632-513821-601194-135289-471735
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.

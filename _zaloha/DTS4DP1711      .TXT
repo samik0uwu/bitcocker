@@ -1,0 +1,78 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+ERROR: An attempt to access a required resource was denied.
+
+Check that you have administrative rights on the computer.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.159\c$\BTL\
+
+    External Key:
+      ID: {1A1BC5D3-1D77-41CB-BDB8-8AFF5276A44A}
+      External Key File Name:
+        1A1BC5D3-1D77-41CB-BDB8-8AFF5276A44A.BEK
+
+    Numerical Password:
+      ID: {986AD6D9-54E9-447E-9CAB-9CE405FD07AA}
+      Password:
+        227733-216513-545259-132187-438614-013805-010417-319286
+
+    TPM:
+      ID: {CC7D8CCB-B496-460F-ABD3-1CB413B45168}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    227733-216513-545259-132187-438614-013805-010417-319286
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+NOTE: This command did not create any new key protectors. Type
+"manage-bde -protectors -add -?" for information on adding more key protectors.
+NOTE: Encryption is already in progress.
+Type "manage-bde -status -?" for information on the encryption status.
+
+BitLocker protection will be on when encryption completes.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+NOTE: This command did not create any new key protectors. Type
+"manage-bde -protectors -add -?" for information on adding more key protectors.
+NOTE: Encryption is already in progress.
+Type "manage-bde -status -?" for information on the encryption status.
+
+BitLocker protection will be on when encryption completes.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+NOTE: This command did not create any new key protectors. Type
+"manage-bde -protectors -add -?" for information on adding more key protectors.
+NOTE: Encryption is already in progress.
+Type "manage-bde -status -?" for information on the encryption status.
+
+BitLocker protection will be on when encryption completes.

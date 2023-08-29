@@ -1,0 +1,16 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.19041
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: [Windows]
+All Key Protectors
+
+    TPM:
+      ID: {79CA96D2-560B-44AA-91EA-168BCE9B5C3B}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+    Numerical Password:
+      ID: {3BF00AD4-9448-43F0-8C89-BC81584675D6}
+      Password:
+        704429-301378-581713-401467-014751-172865-532642-396077

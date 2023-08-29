@@ -1,0 +1,17 @@
+
+Volume C: [Windows]
+All Key Protectors
+
+    TPM:
+      ID: {6ED7C92A-0334-4418-9E92-A435DCD15DC6}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+    Numerical Password:
+      ID: {70614C2A-9FFA-4028-8BDA-EF9EC7FC58CA}
+      Password:
+        510543-556545-617826-147257-601205-049467-462473-465993
+
+
+C:\Users\u-shatov>

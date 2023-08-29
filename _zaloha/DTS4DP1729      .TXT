@@ -1,0 +1,42 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+ERROR: An attempt to access a required resource was denied.
+
+Check that you have administrative rights on the computer.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.159\c$\BTL\
+
+    External Key:
+      ID: {7E277E7F-7CF8-4497-A780-51318E148162}
+      External Key File Name:
+        7E277E7F-7CF8-4497-A780-51318E148162.BEK
+
+    Numerical Password:
+      ID: {9665B0B3-71B9-479B-AE0A-DB0BA5B4991B}
+      Password:
+        382789-290950-700381-545589-392436-468732-032945-525107
+
+    TPM:
+      ID: {22D88871-EA19-4866-8990-149D145E75C9}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    382789-290950-700381-545589-392436-468732-032945-525107
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.

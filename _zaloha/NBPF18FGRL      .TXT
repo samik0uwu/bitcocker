@@ -1,0 +1,99 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.99\c$\BTL\
+
+    External Key:
+      ID: {D61DA16D-7742-4461-A421-C8998E4888CE}
+      External Key File Name:
+        D61DA16D-7742-4461-A421-C8998E4888CE.BEK
+
+    Numerical Password:
+      ID: {5E2D0655-D790-46B0-B54D-AB425A717F5F}
+      Password:
+        615527-617155-699171-544346-571615-712701-186505-265793
+
+    TPM:
+      ID: {C93B0C77-CAFF-4E4D-AE59-EBC5EC972A49}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    615527-617155-699171-544346-571615-712701-186505-265793
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.99\c$\BTL\
+
+    External Key:
+      ID: {91977D52-AF8F-47FB-9AF9-51E31AF385BC}
+      External Key File Name:
+        91977D52-AF8F-47FB-9AF9-51E31AF385BC.BEK
+
+    Numerical Password:
+      ID: {7B935E4B-B7B9-4052-BD96-EEB6F588327F}
+      Password:
+        501413-360448-267916-673365-696828-540595-175186-681054
+
+    TPM:
+      ID: {30907E64-CAB4-4902-BEC9-47BE4792AA4A}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    501413-360448-267916-673365-696828-540595-175186-681054
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17763
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+ERROR: There was an error while trying to save the key to disk.
+
+NOTE: If the -on switch has failed to add key protectors or start encryption,
+you may need to call "manage-bde -off" before attempting -on again.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17763
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+ERROR: There was an error while trying to save the key to disk.
+
+NOTE: If the -on switch has failed to add key protectors or start encryption,
+you may need to call "manage-bde -off" before attempting -on again.

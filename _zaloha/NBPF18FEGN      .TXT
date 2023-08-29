@@ -1,0 +1,72 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.17134
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.99\c$\BTL\
+
+    External Key:
+      ID: {5BBB22E0-2267-4A44-8720-D8E56F7356F1}
+      External Key File Name:
+        5BBB22E0-2267-4A44-8720-D8E56F7356F1.BEK
+
+    Numerical Password:
+      ID: {F1E32B40-A28B-475A-A271-BCA38CDF3B1F}
+      Password:
+        653345-422873-214885-615087-529331-289740-500852-137148
+
+    TPM:
+      ID: {4C4A87AC-1B01-48B3-BC53-B507BEA6DBAE}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    653345-422873-214885-615087-529331-289740-500852-137148
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17763
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+    Saved to directory \\10.130.3.99\c$\BTL\
+
+    External Key:
+      ID: {3CF1D70C-6B6B-4779-B6EA-3CFE5824983E}
+      External Key File Name:
+        3CF1D70C-6B6B-4779-B6EA-3CFE5824983E.BEK
+
+    Numerical Password:
+      ID: {327F6FBF-74CD-4B51-912F-8826DAFC23BE}
+      Password:
+        218691-528946-213323-598719-719862-076538-260590-672782
+
+    TPM:
+      ID: {57064499-45F5-418E-A940-927B6B438583}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+ACTIONS REQUIRED:
+
+    1. Save this numerical recovery password in a secure location away from
+    your computer:
+
+    218691-528946-213323-598719-719862-076538-260590-672782
+
+    To prevent data loss, save this password immediately. This password helps
+    ensure that you can unlock the encrypted volume.
+
+Encryption is now in progress.

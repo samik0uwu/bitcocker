@@ -1,0 +1,22 @@
+BitLocker Drive Encryption: Configuration Tool version 10.0.17763
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+ERROR: There was an error while trying to save the key to disk.
+
+NOTE: If the -on switch has failed to add key protectors or start encryption,
+you may need to call "manage-bde -off" before attempting -on again.
+BitLocker Drive Encryption: Configuration Tool version 10.0.17763
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+Volume C: []
+[OS Volume]
+Key Protectors Added:
+
+ERROR: There was an error while trying to save the key to disk.
+
+NOTE: If the -on switch has failed to add key protectors or start encryption,
+you may need to call "manage-bde -off" before attempting -on again.

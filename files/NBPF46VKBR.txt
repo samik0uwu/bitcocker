@@ -1,0 +1,13 @@
+Volume C: [Windows]
+All Key Protectors
+
+    TPM:
+      ID: {5591F666-ADD7-43EB-A90D-2DD57BC79683}
+      PCR Validation Profile:
+        7, 11
+        (Uses Secure Boot for integrity validation)
+
+    Numerical Password:
+      ID: {2F56F80B-19A0-4AB5-A6A1-CB7B9FD23ECD}
+      Password:
+        662464-651629-536195-690855-275726-711942-225434-351692
